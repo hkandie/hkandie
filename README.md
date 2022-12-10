@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeddarn
 - 👀 I’m interested in coding, soccer,tennis and wood-working
-- 🌱 I’m currently learning AWS netwroking
+- 🌱 I’m currently learning AWS ML
 - 💞️ I’m love to collaborate on Java, AWS, Azure
 - 📫 How to reach me: zeddarn@gmail.com
 
