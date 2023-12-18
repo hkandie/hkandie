@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zeddarn
 - 👀 I’m interested in coding, soccer,tennis and wood-working
 - 🌱 I’m currently learning AWS ML
-- 💞️ I’m love to collaborate on Java, AWS, Azure
+- 💞️ I’m love to collaborate on Java, AWS, Azure, TypeScript, Python
 - 📫 How to reach me: zeddarn@gmail.com
 
 More repo in my [ org spider-walker/repositories](https://github.com/orgs/spider-walker/repositories)
