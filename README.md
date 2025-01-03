@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hkandie
 - 👀 I’m interested in coding, soccer,tennis and wood-working
 - 🌱 I’m currently learning AWS ML
-- 💞️ I’m love to collaborate on Java, AWS, Azure, TypeScript, Python, React and React Native
+- 💞️ I’m love to collaborate on Java, AWS, Azure, TypeScript, Python, React and React Native, K8 and Containerization,
 - 📫 How to reach me: zeddarn@gmail.com
 
 More repo in my [ org spider-walker/repositories](https://github.com/orgs/spider-walker/repositories)
